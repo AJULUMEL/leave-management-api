@@ -37,6 +37,7 @@ Project ini menggunakan teknologi berikut:
 * GitHub OAuth
 * RESTful API
 * Postman Documentation
+* PHP 8.2
 
 ---
 
@@ -375,7 +376,7 @@ app/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/leave-management-api.git
+git clone https://github.com/AJULUMEL/leave-management-api
 cd leave-management-api
 ```
 
@@ -906,6 +907,13 @@ Project ini mencakup:
 * Published Postman Documentation
 
 ---
+
+## Repository
+
+GitHub Repository:
+
+https://github.com/AJULUMEL/leave-management-api
+
 
 ## Author
 
